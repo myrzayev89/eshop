@@ -1,0 +1,11 @@
+2024-06-12 09:16:20 pid:1 BadMethodCallException: Printer 'XP-80C (copy 1)' is not a valid printer name. Use local port (LPT1, COM1, etc) or smb://computer/printer notation. in C:\xampp\htdocs\myshop\vendor\mike42\escpos-php\src\Mike42\Escpos\PrintConnectors\WindowsPrintConnector.php:159
+Stack trace:
+#0 C:\xampp\htdocs\myshop\worker_server.php(35): Mike42\Escpos\PrintConnectors\WindowsPrintConnector->__construct('XP-80C (copy 1)')
+#1 C:\xampp\htdocs\myshop\worker_server.php(22): onPrint('XP-80C (copy 1)', 'Salam Dunya glo...')
+#2 C:\xampp\htdocs\myshop\vendor\workerman\workerman\Connection\TcpConnection.php(646): {closure}(Object(Workerman\Connection\TcpConnection), 'Salam Dunya glo...')
+#3 C:\xampp\htdocs\myshop\vendor\workerman\workerman\Events\Select.php(311): Workerman\Connection\TcpConnection->baseRead(Resource id #20)
+#4 C:\xampp\htdocs\myshop\vendor\workerman\workerman\Worker.php(1488): Workerman\Events\Select->loop()
+#5 C:\xampp\htdocs\myshop\vendor\workerman\workerman\Worker.php(1405): Workerman\Worker::forkWorkersForWindows()
+#6 C:\xampp\htdocs\myshop\vendor\workerman\workerman\Worker.php(560): Workerman\Worker::forkWorkers()
+#7 C:\xampp\htdocs\myshop\worker_server.php(31): Workerman\Worker::runAll()
+#8 {main}

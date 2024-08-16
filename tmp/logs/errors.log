@@ -1,0 +1,320 @@
+[02.08.2024 09:26:17] Xəta: Metod (profileAction) tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\Router.php | Xətt: 61
+=====================
+[02.08.2024 09:26:17] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\Router.php | Xətt: 67
+=====================
+[02.08.2024 09:27:51] Xəta: View (C:\xampp\htdocs\myshop/app/views/user/profile.php) tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\View.php | Xətt: 35
+=====================
+[02.08.2024 09:28:08] Xəta: View (C:\xampp\htdocs\myshop/app/views/user/profile.php) tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\View.php | Xətt: 35
+=====================
+[02.08.2024 09:28:17] Xəta: View (C:\xampp\htdocs\myshop/app/views/user/profile.php) tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\View.php | Xətt: 35
+=====================
+[02.08.2024 09:28:57] Xəta: Metod (regisAction) tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\Router.php | Xətt: 61
+=====================
+[02.08.2024 09:29:56] Xəta: View (C:\xampp\htdocs\myshop/app/views/user/profile.php) tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\View.php | Xətt: 35
+=====================
+[03.08.2024 06:34:53] Xəta: Metod (ordersAction) tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\Router.php | Xətt: 61
+=====================
+[03.08.2024 06:34:53] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\Router.php | Xətt: 67
+=====================
+[03.08.2024 06:42:05] Xəta: Metod (filesAction) tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\Router.php | Xətt: 61
+=====================
+[03.08.2024 06:45:56] Xəta: Metod (credentialsAction) tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\Router.php | Xətt: 61
+=====================
+[03.08.2024 07:06:05] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 07:07:36] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 07:13:53] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 07:14:24] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 07:16:30] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 07:16:53] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 07:18:31] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 07:18:31] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\Router.php | Xətt: 67
+=====================
+[03.08.2024 07:18:48] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 07:19:49] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 07:20:09] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 07:20:16] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 07:21:41] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 07:21:42] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 07:21:42] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 07:21:43] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 07:21:53] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 07:21:54] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 07:21:54] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 07:22:18] Xəta: Undefined constant "app\controllers\model" | Fayl: C:\xampp\htdocs\myshop\app\controllers\UserController.php | Xətt: 77
+=====================
+[03.08.2024 07:22:33] Xəta: Undefined constant "app\controllers\model" | Fayl: C:\xampp\htdocs\myshop\app\controllers\UserController.php | Xətt: 75
+=====================
+[03.08.2024 07:53:47] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 07:56:46] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 07:56:49] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 07:57:34] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 07:58:36] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 07:59:06] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 07:59:07] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 07:59:07] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 07:59:29] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 07:59:30] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 07:59:30] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 07:59:30] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 07:59:40] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 07:59:40] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\Router.php | Xətt: 67
+=====================
+[03.08.2024 08:04:04] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 08:11:27] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 08:12:02] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 08:16:54] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 08:17:21] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 09:14:20] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'od_status' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 09:14:39] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'od_status' in 'where clause' | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[03.08.2024 09:15:31] Xəta: Undefined variable $total | Fayl: C:\xampp\htdocs\myshop\app\views\user\files.php | Xətt: 47
+=====================
+[03.08.2024 19:27:32] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:27:32] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\Router.php | Xətt: 67
+=====================
+[03.08.2024 19:28:12] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:28:18] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:28:30] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:29:17] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:30:40] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:31:08] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:31:14] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:31:17] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:31:18] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:31:19] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:31:25] Xəta: View (C:\xampp\htdocs\myshop/app/views/user/o.php) tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\View.php | Xətt: 35
+=====================
+[03.08.2024 19:31:44] Xəta: Metod (oAction) tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\Router.php | Xətt: 61
+=====================
+[03.08.2024 19:32:05] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:32:51] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:32:55] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:33:26] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:33:44] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:33:54] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:33:56] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:33:56] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:34:29] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[03.08.2024 19:34:42] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[04.08.2024 21:50:49] Xəta: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eshop.our_advantages' doesn't exist | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[04.08.2024 21:50:49] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\Router.php | Xətt: 67
+=====================
+[04.08.2024 21:51:36] Xəta: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eshop.our_advantages' doesn't exist | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[04.08.2024 21:51:46] Xəta: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eshop.our_advantages' doesn't exist | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[05.08.2024 15:17:40] Xəta: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eshop.our_advantages' doesn't exist | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[05.08.2024 15:17:40] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\Router.php | Xətt: 67
+=====================
+[05.08.2024 15:17:43] Xəta: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eshop.our_advantages' doesn't exist | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[07.08.2024 09:42:09] Xəta: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eshop.our_advantages' doesn't exist | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[07.08.2024 09:42:09] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\Router.php | Xətt: 67
+=====================
+[07.08.2024 09:42:13] Xəta: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eshop.our_advantages' doesn't exist | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[07.08.2024 09:48:21] Xəta: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eshop.our_advantages' doesn't exist | Fayl: C:\xampp\htdocs\myshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[13.08.2024 18:51:32] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 18:51:32] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\Router.php | Xətt: 67
+=====================
+[13.08.2024 18:58:53] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:04:17] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:04:19] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:07:31] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:10:33] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:11:12] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:11:43] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:11:47] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:11:49] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:11:53] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:12:24] Xəta: Metod (kompyuterlerAction) tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\Router.php | Xətt: 61
+=====================
+[13.08.2024 19:14:16] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:14:16] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\Router.php | Xətt: 67
+=====================
+[13.08.2024 19:15:45] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:15:57] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:16:17] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:16:24] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:16:27] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:16:28] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:16:49] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:17:10] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:18:11] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:18:24] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:18:43] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:18:43] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\Router.php | Xətt: 67
+=====================
+[13.08.2024 19:19:06] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:19:16] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:19:30] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:20:19] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:20:23] Xəta: Not found language user | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:20:46] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:21:15] Xəta: Not found language cart | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:22:01] Xəta: Not found language cart | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 19:27:21] Xəta: Not found language order | Fayl: C:\xampp\htdocs\myshop\app\widgets\language\LanguageWidget.php | Xətt: 41
+=====================
+[13.08.2024 20:04:36] Xəta: Metod (downloadAction) tapılmadı! | Fayl: C:\xampp\htdocs\myshop\vendor\core\Router.php | Xətt: 61
+=====================
+[14.08.2024 10:13:01] Xəta: Metod (ordersAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[14.08.2024 10:13:01] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 67
+=====================
+[14.08.2024 10:13:14] Xəta: Metod (filesAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[14.08.2024 10:13:15] Xəta: Metod (ordersAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[14.08.2024 10:13:16] Xəta: Metod (orderAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[14.08.2024 10:13:34] Xəta: Metod (cabinetAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[14.08.2024 11:10:13] Xəta: Metod (cabinetAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[14.08.2024 11:10:13] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 67
+=====================
+[14.08.2024 11:12:04] Xəta: Metod (ordersAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[14.08.2024 11:12:57] Xəta: Metod (ordersAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[14.08.2024 11:23:06] Xəta: Metod (credentialsAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[14.08.2024 11:24:26] Xəta: Metod (orderAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[14.08.2024 11:35:50] Xəta: Metod (filesAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[14.08.2024 11:48:08] Xəta: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ');
+            JOIN downloads dd ON d.id = od.download_id
+        WHERE od....' at line 2 | Fayl: C:\xampp\htdocs\eshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[14.08.2024 11:49:23] Xəta: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ');
+            JOIN download_description dd ON d.id = od.download_id
+      ...' at line 2 | Fayl: C:\xampp\htdocs\eshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[14.08.2024 11:50:28] Xəta: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ');
+            JOIN download_description dd ON d.id = dd.download_id
+      ...' at line 2 | Fayl: C:\xampp\htdocs\eshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[14.08.2024 11:50:30] Xəta: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ');
+            JOIN download_description dd ON d.id = dd.download_id
+      ...' at line 2 | Fayl: C:\xampp\htdocs\eshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[14.08.2024 11:50:30] Xəta: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ');
+            JOIN download_description dd ON d.id = dd.download_id
+      ...' at line 2 | Fayl: C:\xampp\htdocs\eshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[14.08.2024 11:50:30] Xəta: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ');
+            JOIN download_description dd ON d.id = dd.download_id
+      ...' at line 2 | Fayl: C:\xampp\htdocs\eshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[14.08.2024 11:52:03] Xəta: Metod (downloadAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[15.08.2024 08:53:23] Xəta: Undefined property: app\controllers\UserController::$mode | Fayl: C:\xampp\htdocs\eshop\app\controllers\UserController.php | Xətt: 119
+=====================
+[15.08.2024 08:53:33] Xəta: Undefined variable $downloadId | Fayl: C:\xampp\htdocs\eshop\app\controllers\UserController.php | Xətt: 119
+=====================
+[15.08.2024 08:53:42] Xəta: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'dd.download_id = 1 AND dd.lang_id = 1 AND od.status = 1' at line 4 | Fayl: C:\xampp\htdocs\eshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[15.08.2024 09:01:10] Xəta: Metod (credentialsAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[15.08.2024 09:01:10] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 67
+=====================
+[16.08.2024 13:06:37] Xəta: Metod (credentialsAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[16.08.2024 13:06:38] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 67
+=====================
+[16.08.2024 13:06:55] Xəta: Metod (credentialsAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
