@@ -8,8 +8,8 @@
 
 <!-- jQuery -->
 <script>
-    const PATH = <?= PATH; ?>
-    const ADMIN = <?= ADMIN; ?>
+    const PATH = '<?= PATH; ?>';
+    const ADMIN = '<?= ADMIN; ?>';
 </script>
 <script src="<?= PATH; ?>/adminlte/plugins/jquery/jquery.min.js"></script>
 <!-- Bootstrap 4 -->

@@ -16,7 +16,9 @@
                     alt="User Image">
             </div>
             <div class="info">
-                <a href="#" class="d-block">Alexander Pierce</a>
+                <a href="<?= ADMIN; ?>/user/edit?id=<?= $_SESSION['user']['id']; ?>"
+                    class="d-block"><?= h($_SESSION['user']['name']); ?></a>
+                <a href="<?= ADMIN; ?>/user/logout" class="d-block">Çıxış</a>
             </div>
         </div>
 
