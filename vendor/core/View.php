@@ -53,6 +53,12 @@ class View
         return $out;
     }
 
+    public function getAdminMeta(): string
+    {
+        $out = '<title>Admin :: ' . h($this->meta['title']) . '</title>' . PHP_EOL;
+        return $out;
+    }
+
     public function getDbLogs()
     {
         if (DEBUG) {
