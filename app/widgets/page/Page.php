@@ -12,7 +12,7 @@ class Page
     protected $container = 'ul';
     protected $class = 'page';
     protected $cache = 3600;
-    protected $cacheKey = 'myshop_page';
+    protected $cacheKey = 'eshop_page';
     protected $menuPageHtml;
     protected $prepend = '';
     protected $data;

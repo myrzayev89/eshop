@@ -1,0 +1,24 @@
+a:2:{s:4:"data";s:965:"<li class="nav-item ">
+        <a class="nav-link "
+            href="category/kompyuterler" >Kompyuterlər</a>
+    </li><li class="nav-item ">
+        <a class="nav-link "
+            href="category/planshetler" >Planşetlər</a>
+    </li><li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle"
+            href="category/notbuklar" data-bs-toggle="dropdown">Notbuklar</a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li class="nav-item ">
+        <a class="nav-link "
+            href="category/mac" >Mac</a>
+    </li><li class="nav-item ">
+        <a class="nav-link "
+            href="category/windows" >Windows</a>
+    </li>        </ul>
+    </li><li class="nav-item ">
+        <a class="nav-link "
+            href="category/telefonlar" >Telefonlar</a>
+    </li><li class="nav-item ">
+        <a class="nav-link "
+            href="category/kameralar" >Kameralar</a>
+    </li>";s:8:"end_time";i:1724836866;}

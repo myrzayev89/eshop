@@ -43,6 +43,12 @@
                         <p>Əsas</p>
                     </a>
                 </li>
+                <li class="nav-item">
+                    <a href="<?= ADMIN; ?>/category" class="nav-link">
+                        <i class="nav-icon fas fa-list"></i>
+                        <p>Kateqoriyalar</p>
+                    </a>
+                </li>
             </ul>
         </nav>
         <!-- /.sidebar-menu -->
