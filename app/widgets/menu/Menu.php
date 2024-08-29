@@ -18,6 +18,7 @@ class Menu
     protected $cacheKey = 'eshop_menu';
     protected $attrs = [];
     protected $language;
+    protected $prepend = '';
 
     public function __construct($options = [])
     {
@@ -56,7 +57,7 @@ class Menu
         $attrs = '';
         if (!empty($this->attrs)) {
             foreach ($this->attrs as $k => $v) {
-                $attrs .= " $k='$v' ";
+                $attrs .= " $k = '$v' ";
             }
         }
         echo "<{$this->container} class='{$this->class}' $attrs>";

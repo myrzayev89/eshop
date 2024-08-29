@@ -10,11 +10,12 @@ $edit = '<a class="btn btn-info btn-sm" href="' . ADMIN . '/category/edit?id=' .
 ?>
 <tr>
     <td>
-        <a href="<?= ADMIN ?>/category/edit/?id=<?= $id ?>" style="padding-left: <?= strlen($tab)*3 ?>px"><?= $tab . $category['title'] ?></a>
+        <a href="<?= ADMIN ?>/category/edit/?id=<?= $id ?>"
+            style="padding-left: <?= strlen($tab) * 3 ?>px"><?= $tab . $category['title'] ?></a>
     </td>
     <td width="50"><?= $edit ?></td>
     <td width="50"><?= $delete ?></td>
 </tr>
 <?php if (isset($category['children'])): ?>
-    <?= $this->getMenuHtml($category['children'], $tab . '&#8211;');?>
+    <?= $this->getMenuHtml($category['children'], '&nbsp;' . $tab . '-'); ?>
 <?php endif; ?>

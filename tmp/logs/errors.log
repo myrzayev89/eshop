@@ -14,3 +14,7 @@
 =====================
 [28.08.2024 11:16:50] Xəta: View (C:\xampp\htdocs\eshop/app/views/admin/category/delete.php) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\View.php | Xətt: 35
 =====================
+[29.08.2024 17:52:12] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 67
+=====================
+[29.08.2024 18:28:11] Xəta: Undefined array key "err_catch" | Fayl: C:\xampp\htdocs\eshop\app\controllers\admin\CategoryController.php | Xətt: 24
+=====================
