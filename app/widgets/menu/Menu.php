@@ -61,6 +61,7 @@ class Menu
             }
         }
         echo "<{$this->container} class='{$this->class}' $attrs>";
+        echo $this->prepend;
         echo $this->menuHtml;
         echo "</{$this->container}>";
     }

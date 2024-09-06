@@ -18,3 +18,33 @@
 =====================
 [29.08.2024 18:28:11] Xəta: Undefined array key "err_catch" | Fayl: C:\xampp\htdocs\eshop\app\controllers\admin\CategoryController.php | Xətt: 24
 =====================
+[03.09.2024 14:29:57] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 67
+=====================
+[03.09.2024 14:30:10] Xəta: Metod (createAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[03.09.2024 14:30:34] Xəta: Call to undefined function get_field_array_value() | Fayl: C:\xampp\htdocs\eshop\app\views\admin\category\create.php | Xətt: 71
+=====================
+[04.09.2024 12:49:38] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 67
+=====================
+[05.09.2024 20:38:28] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 67
+=====================
+[05.09.2024 20:38:41] Xəta: Metod (createAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[05.09.2024 20:42:05] Xəta: Metod (createAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[05.09.2024 20:52:40] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 67
+=====================
+[06.09.2024 05:07:33] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 67
+=====================
+[06.09.2024 05:07:52] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 67
+=====================
+[06.09.2024 05:09:44] Xəta: Metod (createAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[06.09.2024 05:09:44] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 67
+=====================
+[06.09.2024 05:18:52] Xəta: Metod (createAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[06.09.2024 05:19:09] Xəta: Call to undefined function get_field_array_value() | Fayl: C:\xampp\htdocs\eshop\app\views\admin\category\create.php | Xətt: 71
+=====================
+[06.09.2024 06:09:49] Xəta: Class "app\models\admin\App" not found | Fayl: C:\xampp\htdocs\eshop\app\models\admin\Category.php | Xətt: 32
+=====================

@@ -6,6 +6,7 @@
     <?php if (!empty($_SESSION['success'])): ?>
         <div class="alert alert-success alert-dismissible">
             <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+            <i class="icon fas fa-check"></i>
             <?php
             echo $_SESSION['success'];
             unset($_SESSION['success']);
@@ -15,6 +16,7 @@
     <?php if (!empty($_SESSION['errors'])): ?>
         <div class="alert alert-danger alert-dismissible">
             <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+            <i class="icon fas fa-ban"></i>
             <?php
             echo $_SESSION['errors'];
             unset($_SESSION['errors']);

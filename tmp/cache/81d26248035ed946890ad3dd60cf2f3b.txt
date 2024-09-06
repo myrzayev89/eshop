@@ -1,4 +1,4 @@
-a:2:{s:4:"data";s:965:"<li class="nav-item ">
+a:2:{s:4:"data";s:1096:"<li class="nav-item ">
         <a class="nav-link "
             href="category/kompyuterler" >Kompyuterlər</a>
     </li><li class="nav-item ">
@@ -21,4 +21,7 @@ a:2:{s:4:"data";s:965:"<li class="nav-item ">
     </li><li class="nav-item ">
         <a class="nav-link "
             href="category/kameralar" >Kameralar</a>
-    </li>";s:8:"end_time";i:1724948956;}
+    </li><li class="nav-item ">
+        <a class="nav-link "
+            href="category/defter-kitablar" >Dəftər Kitablar</a>
+    </li>";s:8:"end_time";i:1725595934;}

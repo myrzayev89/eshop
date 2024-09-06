@@ -13,6 +13,21 @@ class CategoryController extends AppController
         $this->setMeta('Kateqoriyalar');
     }
 
+    public function createAction()
+    {
+        if (!empty($_POST)) {
+            if ($this->model->category_validate()) {
+                if ($this->model->category_save()) {
+                    $_SESSION['success'] = 'Kateqoriya əlavə edildi';
+                } else {
+                    $_SESSION['errors'] = 'Xəta baş verdi!';
+                }
+            }
+            redirect();
+        }
+        $this->setMeta('Yeni Kateqoriya');
+    }
+
     public function deleteAction()
     {
         $categoryId = get('id');
