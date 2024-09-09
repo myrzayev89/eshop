@@ -56,6 +56,44 @@ class Category extends AppModel
             return R::commit();
         } catch (\Throwable $th) {
             R::rollback();
+            // throw $th;
+            return false;
+        }
+    }
+
+    public function get_category($id): array
+    {
+        return R::getAssoc("SELECT cd.lang_id, cd.*, c.* FROM category_description cd 
+            JOIN categories c ON c.id = cd.category_id WHERE category_id = ?", [$id]);
+    }
+
+    public function category_update($id): bool
+    {
+        R::begin();
+        try {
+            // edit category
+            $getParentId = R::getRow("SELECT c.parent_id FROM categories c WHERE c.id = ?", [$id]);
+            $category = R::load('categories', $id);
+            if (!$category) {
+                return false;
+            }
+            $category->parent_id = post('parent_id', 'i') ?: $getParentId['parent_id'];
+            R::store($category);
+
+            // edit category description
+            foreach ($_POST['category_description'] as $langId => $item) {
+                R::exec("UPDATE category_description SET title = ?, excerpt = ?, description = ?, keywords = ? WHERE category_id = ? AND lang_id = ?", [
+                    $item['title'],
+                    $item['excerpt'],
+                    $item['description'],
+                    $item['keywords'],
+                    $id,
+                    $langId,
+                ]);
+            }
+            return R::commit();
+        } catch (\Throwable $th) {
+            R::rollback();
             throw $th;
             return false;
         }

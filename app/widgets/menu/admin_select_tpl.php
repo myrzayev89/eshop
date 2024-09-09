@@ -1,5 +1,5 @@
 <?php $get_id = get('id'); ?>
-<option value="<?= $id ?>" <?php if ($id == get_parent_id())
+<option value="<?= $id ?>" <?php if ($id == get_parent_id($get_id))
       echo 'selected'; ?> <?php if ($get_id == $id)
              echo 'disabled'; ?>>
     <?= $tab . $category['title'] ?>

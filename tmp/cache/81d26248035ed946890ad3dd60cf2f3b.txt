@@ -10,11 +10,11 @@ a:2:{s:4:"data";s:1096:"<li class="nav-item ">
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li class="nav-item ">
         <a class="nav-link "
-            href="category/mac" >Mac</a>
-    </li><li class="nav-item ">
-        <a class="nav-link "
             href="category/windows" >Windows</a>
     </li>        </ul>
+    </li><li class="nav-item ">
+        <a class="nav-link "
+            href="category/mac" >Mac</a>
     </li><li class="nav-item ">
         <a class="nav-link "
             href="category/telefonlar" >Telefonlar</a>
@@ -24,4 +24,4 @@ a:2:{s:4:"data";s:1096:"<li class="nav-item ">
     </li><li class="nav-item ">
         <a class="nav-link "
             href="category/defter-kitablar" >Dəftər Kitablar</a>
-    </li>";s:8:"end_time";i:1725601925;}
+    </li>";s:8:"end_time";i:1725798262;}

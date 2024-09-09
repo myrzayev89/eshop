@@ -28,6 +28,27 @@ class CategoryController extends AppController
         $this->setMeta('Yeni Kateqoriya');
     }
 
+    public function editAction()
+    {
+        $categoryId = get('id');
+        if (!empty($_POST)) {
+            if ($this->model->category_validate()) {
+                if ($this->model->category_update($categoryId)) {
+                    $_SESSION['success'] = 'Kateqoriya redaktə edildi';
+                } else {
+                    $_SESSION['errors'] = 'Xəta baş verdi!';
+                }
+            }
+            redirect();
+        }
+        $category = $this->model->get_category($categoryId);
+        if (!$category) {
+            throw new \Exception('Kateqoriya tapılmadı!', 404);
+        }
+        $this->setMeta('Kateqoriya adi');
+        $this->set(compact('category'));
+    }
+
     public function deleteAction()
     {
         $categoryId = get('id');

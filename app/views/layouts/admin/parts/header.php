@@ -16,10 +16,9 @@
     <link rel="stylesheet" href="<?= PATH; ?>/adminlte/plugins/fontawesome-free/css/all.min.css">
     <!-- Theme style -->
     <link rel="stylesheet" href="<?= PATH; ?>/adminlte/dist/css/adminlte.min.css">
-    <link rel="stylesheet" href="<?= PATH; ?>/adminlte/app.css"
-    
+    <link rel="stylesheet" href="<?= PATH; ?>/adminlte/app.css">
+
     <script src="<?= PATH; ?>/adminlte/ckeditor/ckeditor.js"></script>
-    <script src="<?= PATH; ?>/adminlte/ckfinder/ckfinder.js"></script>
 </head>
 
 <body class="hold-transition sidebar-mini">

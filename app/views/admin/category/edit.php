@@ -3,13 +3,13 @@
     <div class="container-fluid">
         <div class="row mb-2">
             <div class="col-sm-6">
-                <h1 class="m-0">Yeni Bölmə</h1>
+                <h1 class="m-0"><?= $category[1]['title']; ?></h1>
             </div><!-- /.col -->
             <div class="col-sm-6">
                 <ol class="breadcrumb float-sm-right">
                     <li class="breadcrumb-item"><a href="<?= ADMIN; ?>"><i class="fas fa-home"></i></a></li>
                     <li class="breadcrumb-item"><a href="<?= ADMIN; ?>/category">Bölmələr</a></li>
-                    <li class="breadcrumb-item active">Yeni Bölmə</li>
+                    <li class="breadcrumb-item active"><?= $category[1]['title']; ?></li>
                 </ol>
             </div><!-- /.col -->
         </div><!-- /.row -->
@@ -22,7 +22,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-12">
-                <div class="card card-success card-outline">
+                <div class="card card-primary card-outline">
                     <div class="card-body">
                         <form action="" method="post">
                             <div class="form-group">
@@ -42,7 +42,7 @@
                                 ]) ?>
                             </div>
 
-                            <div class="card card-success card-outline card-outline-tabs">
+                            <div class="card card-primary card-outline card-outline-tabs">
                                 <div class="card-header p-0 border-bottom-0">
                                     <ul class="nav nav-tabs" id="custom-tabs-three-tab" role="tablist">
                                         <?php foreach (\core\App::$app->getProperty('languages') as $k => $lang): ?>
@@ -67,8 +67,7 @@
                                                     <label class="required" for="title">Bölmə adı</label>
                                                     <input type="text"
                                                         name="category_description[<?= $lang['id'] ?>][title]"
-                                                        class="form-control" id="title" placeholder="Bölmə adı"
-                                                        value="<?= get_field_array_value('category_description', $lang['id'], 'title') ?>"
+                                                        class="form-control" id="title" placeholder="Bölmə adı" value="<?= $category[$lang['id']]['title']; ?>"
                                                         required>
                                                 </div>
 
@@ -77,7 +76,7 @@
                                                     <input type="text"
                                                         name="category_description[<?= $lang['id'] ?>][description]"
                                                         class="form-control" id="description" placeholder="Meta təsviri"
-                                                        value="<?= get_field_array_value('category_description', $lang['id'], 'description') ?>">
+                                                        value="<?= $category[$lang['id']]['description']; ?>">
                                                 </div>
 
                                                 <div class="form-group">
@@ -85,14 +84,14 @@
                                                     <input type="text"
                                                         name="category_description[<?= $lang['id'] ?>][keywords]"
                                                         class="form-control" id="keywords" placeholder="Meta açar sözləri"
-                                                        value="<?= get_field_array_value('category_description', $lang['id'], 'keywords') ?>">
+                                                        value="<?= $category[$lang['id']]['keywords']; ?>">
                                                 </div>
 
                                                 <div class="form-group">
                                                     <label for="excerpt">Ətraflı</label>
                                                     <textarea name="category_description[<?= $lang['id'] ?>][excerpt]"
                                                         class="form-control editor" id="excerpt" rows="3"
-                                                        placeholder="Bölmə haqqında ətraflı yazın"><?= get_field_array_value('category_description', $lang['id'], 'excerpt') ?></textarea>
+                                                        placeholder="Bölmə haqqında ətraflı yazın"><?= $category[$lang['id']]['excerpt']; ?></textarea>
                                                 </div>
 
                                             </div>
@@ -101,7 +100,7 @@
                                 </div>
                                 <!-- /.card -->
                             </div>
-                            <button type="submit" class="btn btn-success">Əlavə et</button>
+                            <button type="submit" class="btn btn-primary">Redaktə et</button>
                         </form>
 
                         <?php
