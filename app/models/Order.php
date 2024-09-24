@@ -24,6 +24,7 @@ class Order extends AppModel
             return $order_id;
         } catch (\Exception $e) {
             R::rollback();
+            debug($e, true);
             return false;
         }
     }
@@ -35,7 +36,7 @@ class Order extends AppModel
         foreach ($_SESSION['cart'] as $product_id => $product) {
             // add digital product
             if ($product['is_download']) {
-                $download_id = R::getCell("SELECT id FROM downloads WHERE product_id = ?", [$product_id]);
+                $download_id = R::getCell("SELECT download_id FROM product_download WHERE product_id = ?", [$product_id]);
                 $order_download = R::xdispense('order_downloads');
                 $order_download->order_id = $order_id;
                 $order_download->user_id = $user_id;

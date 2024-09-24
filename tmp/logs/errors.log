@@ -82,3 +82,15 @@
 =====================
 [08.09.2024 14:36:47] Xəta: Attempt to assign property "parent_id" on array | Fayl: C:\xampp\htdocs\eshop\app\models\admin\Category.php | Xətt: 78
 =====================
+[24.09.2024 13:25:08] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 67
+=====================
+[24.09.2024 14:05:00] Xəta: Kontroller (app\controllers\admin\ProductController) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 64
+=====================
+[24.09.2024 14:05:00] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 67
+=====================
+[24.09.2024 14:20:12] Xəta: Metod (createAction) tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 61
+=====================
+[24.09.2024 15:02:27] Xəta: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'donwload_id' in 'field list' | Fayl: C:\xampp\htdocs\eshop\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Xətt: 206
+=====================
+[24.09.2024 15:08:04] Xəta: Səhifə tapılmadı! | Fayl: C:\xampp\htdocs\eshop\vendor\core\Router.php | Xətt: 67
+=====================
